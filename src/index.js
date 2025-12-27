@@ -1,2 +1,2 @@
 // Main entry point
-console.log('Hello, Release Lens!');
+console.log('Hello, Release Lens!!');
