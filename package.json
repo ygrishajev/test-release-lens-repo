@@ -1,0 +1,9 @@
+{
+  "name": "test-release-lens-repo",
+  "version": "1.0.0",
+  "description": "Test repository for Release Lens",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Tests pass\""
+  }
+}
